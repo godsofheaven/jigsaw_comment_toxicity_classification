@@ -1,5 +1,5 @@
 # Jigsaw Toxicity Classifier Fine-tuning
-This repository contains a Google Colab notebook that demonstrates the process of fine-tuning a pre-trained DistilBERT model for toxicity classification using the Jigsaw Toxicity Raw Dataset. The notebook covers hyperparameter optimization, model training, evaluation, and inference.
+This repository contains a Google Colab notebook that demonstrates the process of fine-tuning a pre-trained DistilBERT model for toxicity classification using the Jigsaw Toxicity Pred Dataset. The notebook covers hyperparameter optimization, model training, evaluation, and inference.
 
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1ITHXGQKGuZFwiAASyiw9GYXkewM8tzwD?usp=sharing)
 
